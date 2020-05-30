@@ -1,4 +1,4 @@
-# Calçados Dominita
+# Calçados Dominica
  Exercício avaliativo para a semana 13 de DSI
  
  Tópicos desenvovidos neste exercício e sua aplicação:
