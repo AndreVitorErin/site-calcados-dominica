@@ -11,3 +11,17 @@ footer {
   text-align: center;
   font-size: 12px;
 }
+
+#descricaoSocial,
+#descricaoCasual {
+  display: none;
+}
+
+#tituloSocial,
+#tituloCasual {
+  cursor: pointer;
+}
+
+.carrossel {
+  width: 300px;
+}
